@@ -1,2 +1,1 @@
-# cliffscycle.com
-Cliff's Saws &amp; Cycle Website
+Cliff's Saws and Cycles website. 
